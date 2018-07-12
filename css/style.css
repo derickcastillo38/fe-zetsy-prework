@@ -40,6 +40,14 @@ h1 {
   border-bottom: 1px solid #ccc;
 }
 
+#featured img {
+  border: 5px rgb(152,173,166) solid;
+}
+
+img {
+  border: 0;
+}
+
 
 
 /* Write all remaining styles here */
