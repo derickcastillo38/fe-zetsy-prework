@@ -48,6 +48,12 @@ img {
   border: 0;
 }
 
+h2 {
+  display: block;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
 
 
 /* Write all remaining styles here */
